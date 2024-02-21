@@ -1,5 +1,5 @@
  ### Hi there,this is Kitsada Puttivanit 👋
-  - I'm working in Research % Development Technician in bitumen company with strong skill and experience make better product for organizations. By now I'm interested in Data Analyst and I use my spare time to practice it, And this is what place I will upload my practice exercise especially about dashboard training.
+  - I'm working in Research & Development Technician in bitumen company with strong skill and experience make better product for organizations. By now I'm interested in Data Analyst and I use my spare time to practice it, And this is what place I will upload my practice exercise especially about dashboard training.
   - My Hard skill : SQL, R programming(dplyr, tidyverse, ggplot2, tidyr), Looker Studio, Power BI(DAX), Tableau, Spreadsheet.
   - My Soft skill : Problem solving, Analytic and Critical thinking, Data Analysis(Data-Driven, Data Cleaning, Data Analyze.
 <!--
